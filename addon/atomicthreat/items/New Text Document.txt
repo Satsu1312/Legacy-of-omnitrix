@@ -1,0 +1,31 @@
+ '{
+    "max_stack_size": 64,
+    "rarity": "common"
+}"
+
+
+
+
+
+
+
+
+
+ '{
+    "max_stack_size": 1,
+    "rarity": "common"
+}"
+
+
+
+
+
+
+
+
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "test:item/example_item"
+  }
+}
