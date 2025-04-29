@@ -4,7 +4,7 @@
     {
       "type": "geckolib:default",
       "model": "atomicthreat:geo/galvanic_mechamorph/alien.geo.json",
-      "texture": ""
+      "texture": "atomicthreat:textures/alien_textures/prototype/galvanic_mechamorph_0_0.png"
     }
   ]
 }
