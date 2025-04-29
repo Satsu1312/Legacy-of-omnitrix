@@ -1,0 +1,10 @@
+{
+  "type": "palladium:compound",
+  "layers": [
+    {
+      "type": "geckolib:default",
+      "model": "atomicthreat:geo/vulpimancer/alien.geo.json",
+      "texture": "atomicthreat:textures/alien_textures/prototype/vulpimancer_0_0.png"
+    }
+  ]
+}
