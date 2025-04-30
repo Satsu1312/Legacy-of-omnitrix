@@ -1,0 +1,10 @@
+{
+  "type": "palladium:compound",
+  "layers": [
+    {
+      "type": "geckolib:default",
+      "model": "atomicthreat:geo/omnitrix/prototype_omnitrix.geo.json",
+      "texture": "atomicthreat:textures/item_textures/omnitrix_textures/Prototype/1743029696732.4.png"
+    }
+  ]
+}
